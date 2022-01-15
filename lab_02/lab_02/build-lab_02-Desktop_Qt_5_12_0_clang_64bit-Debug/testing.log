@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCase name="Test_Set_Constructors">
+<Environment>
+    <QtVersion>5.14.1</QtVersion>
+    <QtBuild>Qt 5.14.1 (i386&#x002D;little_endian&#x002D;ilp32 shared (dynamic) release build; by GCC 7.3.0)</QtBuild>
+    <QTestVersion>5.14.1</QTestVersion>
+</Environment>
+<TestFunction name="initTestCase">
+<Incident type="pass" file="" line="0" />
+    <Duration msecs="0.4898"/>
+</TestFunction>
+<TestFunction name="createEmptySetTest">
+<Incident type="pass" file="" line="0" />
+    <Duration msecs="0.1003"/>
+</TestFunction>
+<TestFunction name="createSetFromIitializerListTest">
+<Incident type="pass" file="" line="0" />
+    <Duration msecs="0.0861"/>
+</TestFunction>
+<TestFunction name="createSetFromArrayTest">
+<Incident type="pass" file="" line="0" />
+    <Duration msecs="0.063"/>
+</TestFunction>
+<TestFunction name="createSetFromSetTest">
+<Incident type="pass" file="" line="0" />
+    <Duration msecs="0.0477"/>
+</TestFunction>
+<TestFunction name="createSetFromIteratorsTest">
+<Incident type="pass" file="" line="0" />
+    <Duration msecs="0.0398"/>
+</TestFunction>
+<TestFunction name="cleanupTestCase">
+<Incident type="pass" file="" line="0" />
+    <Duration msecs="0.0251"/>
+</TestFunction>
+<Duration msecs="3.6215"/>
+</TestCase>
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCase name="Test_Set_Methods">
+<Environment>
+    <QtVersion>5.14.1</QtVersion>
+    <QtBuild>Qt 5.14.1 (i386&#x002D;little_endian&#x002D;ilp32 shared (dynamic) release build; by GCC 7.3.0)</QtBuild>
+    <QTestVersion>5.14.1</QTestVersion>
+</Environment>
+<TestFunction name="initTestCase">
+<Incident type="pass" file="" line="0" />
+    <Duration msecs="0.2672"/>
+</TestFunction>
+<TestFunction name="getSetBeginTest">
+<Incident type="pass" file="" line="0" />
+    <Duration msecs="0.0467"/>
+</TestFunction>
+<TestFunction name="getSetEndTest">
+<Incident type="pass" file="" line="0" />
+    <Duration msecs="0.052"/>
+</TestFunction>
+<TestFunction name="hasSetElemTrueTest">
+<Incident type="pass" file="" line="0" />
+    <Duration msecs="0.0373"/>
+</TestFunction>
+<TestFunction name="hasSetElemFalseTest">
+<Incident type="pass" file="" line="0" />
+    <Duration msecs="0.0367"/>
+</TestFunction>
+<TestFunction name="cleanupTestCase">
+<Incident type="pass" file="" line="0" />
+    <Duration msecs="0.0249"/>
+</TestFunction>
+<Duration msecs="0.8126"/>
+</TestCase>
